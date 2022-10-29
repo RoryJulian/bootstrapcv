@@ -1,0 +1,31 @@
+@media(min-width:768px){
+    .columnContainer{
+        display:flex;
+        }
+}
+
+.contact{
+border:1px black solid;
+padding:20px;
+}
+.overview{
+    border:1px black solid;
+    padding:20px
+}
+.skills{
+    border:1px black solid;
+    padding:20px
+}
+.experience{
+    border:1px black solid;
+    padding:20px
+}
+.education{
+    border:1px black solid;
+    padding:20px
+}
+body{
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    }
